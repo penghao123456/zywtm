@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T11:19:10.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xLvZ6P4W5uOLnun3h9Ij" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-18T11:20:29.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-_La2lWeUw6FV3RVnv-Q" version="20.8.20" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="剧情">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,10 +101,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-1" value="结局" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;fillColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="10" width="340" height="160" as="geometry" />
+          <mxGeometry x="840" width="520" height="160" as="geometry" />
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;html=1;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-1">
-          <mxGeometry y="40" width="340" height="40" as="geometry" />
+          <mxGeometry y="40" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-3" value="编号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-2">
           <mxGeometry width="40" height="40" as="geometry">
@@ -122,12 +122,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-6" value="文本" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-2">
-          <mxGeometry x="160" width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry x="160" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWliulUSLE-UuGqAPZZu-1" value="预计时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-2">
+          <mxGeometry x="360" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;html=1;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-1">
-          <mxGeometry y="80" width="340" height="40" as="geometry" />
+          <mxGeometry y="80" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-8" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-7">
           <mxGeometry width="40" height="40" as="geometry">
@@ -145,12 +150,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-11" value="黑面女神寻找着……" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-7">
-          <mxGeometry x="160" width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry x="160" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWliulUSLE-UuGqAPZZu-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-7">
+          <mxGeometry x="360" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;html=1;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-1">
-          <mxGeometry y="120" width="340" height="40" as="geometry" />
+          <mxGeometry y="120" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-13" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-12">
           <mxGeometry width="40" height="40" as="geometry">
@@ -168,8 +178,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B3SQc_IeA2tBVkF_6hIs-16" value="你去世了。&lt;br&gt;黑面女神依然寻找着……" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-12">
-          <mxGeometry x="160" width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
+          <mxGeometry x="160" width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWliulUSLE-UuGqAPZZu-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="B3SQc_IeA2tBVkF_6hIs-12">
+          <mxGeometry x="360" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
