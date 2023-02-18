@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T06:12:42.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nk1D1ATW0E9jyjhqgUOs" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T06:16:31.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="46pldR0JimJCE2b0UsUV" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,10 @@
         <mxCell id="GXs71FnVznY9k2suRO1p-4" value="是否接下？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;glass=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GXs71FnVznY9k2suRO1p-6" value="查询" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GXs71FnVznY9k2suRO1p-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GXs71FnVznY9k2suRO1p-6" target="GXs71FnVznY9k2suRO1p-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GXs71FnVznY9k2suRO1p-6" value="查询穿山甲家位置" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXs71FnVznY9k2suRO1p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GXs71FnVznY9k2suRO1p-8" target="GXs71FnVznY9k2suRO1p-14">
@@ -35,7 +38,7 @@
           <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXs71FnVznY9k2suRO1p-9" value="结局" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;fillColor=default;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="240" width="320" height="160" as="geometry" />
+          <mxGeometry x="860" y="240" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXs71FnVznY9k2suRO1p-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;html=1;" vertex="1" parent="GXs71FnVznY9k2suRO1p-9">
           <mxGeometry y="40" width="320" height="40" as="geometry" />
@@ -91,12 +94,12 @@
             <mxRectangle width="40" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXs71FnVznY9k2suRO1p-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="GXs71FnVznY9k2suRO1p-18">
+        <mxCell id="GXs71FnVznY9k2suRO1p-20" value="可惜……" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="GXs71FnVznY9k2suRO1p-18">
           <mxGeometry x="40" width="80" height="40" as="geometry">
             <mxRectangle width="80" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXs71FnVznY9k2suRO1p-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="GXs71FnVznY9k2suRO1p-18">
+        <mxCell id="GXs71FnVznY9k2suRO1p-30" value="坏" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rounded=1;shadow=0;glass=0;strokeWidth=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="GXs71FnVznY9k2suRO1p-18">
           <mxGeometry x="120" width="40" height="40" as="geometry">
             <mxRectangle width="40" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -105,6 +108,15 @@
           <mxGeometry x="160" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GXs71FnVznY9k2suRO1p-34" value="找到穿山甲家&lt;br&gt;和穿山甲比试" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GXs71FnVznY9k2suRO1p-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GXs71FnVznY9k2suRO1p-37" target="GXs71FnVznY9k2suRO1p-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GXs71FnVznY9k2suRO1p-37" value="任意阶段逝世" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;glass=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
