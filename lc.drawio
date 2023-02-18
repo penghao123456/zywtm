@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T11:20:29.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-_La2lWeUw6FV3RVnv-Q" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-18T11:23:21.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hOjIewXRj36CqidDHEnN" version="20.8.20" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="剧情">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,11 +86,42 @@
         <mxCell id="GXs71FnVznY9k2suRO1p-56" value="这里有着一个可怕的传说：每天，市集里都会出现一沓冥币，谁碰了这沓钱，谁就会在第二天离奇**。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=1;" vertex="1" parent="GXs71FnVznY9k2suRO1p-51">
           <mxGeometry x="10" y="10" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-5" value="女鬼中了套。不知过了多少天，女鬼重现人世间……" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=1;" vertex="1" parent="GXs71FnVznY9k2suRO1p-51">
+          <mxGeometry x="10" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GXs71FnVznY9k2suRO1p-60" target="dXS0JDTN5QcCgnI0oE-1-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GXs71FnVznY9k2suRO1p-60" value="看到钱" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4yr9vBxP2PI2co-h_0io-0" value="结局1" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dXS0JDTN5QcCgnI0oE-1-0" target="dXS0JDTN5QcCgnI0oE-1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-0" value="捡起" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dXS0JDTN5QcCgnI0oE-1-2" target="dXS0JDTN5QcCgnI0oE-1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-2" value="放进功德箱" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-4" value="剧情" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-8" value="" style="shape=link;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dXS0JDTN5QcCgnI0oE-1-4" target="dXS0JDTN5QcCgnI0oE-1-5">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="590" y="600" as="sourcePoint" />
+            <mxPoint x="690" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="580" />
+              <mxPoint x="480" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
