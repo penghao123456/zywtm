@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T11:30:43.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-wJrjhzfsw2M95vPf5jP" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-18T11:32:05.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="L88e-r8ht5yBUHcWUNaE" version="20.8.20" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="剧情">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,11 @@
         <mxCell id="GXs71FnVznY9k2suRO1p-34" value="找到穿山甲家&lt;br&gt;和穿山甲比试" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GXs71FnVznY9k2suRO1p-37" target="dXS0JDTN5QcCgnI0oE-1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GXs71FnVznY9k2suRO1p-37" value="任意阶段逝世" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;glass=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXs71FnVznY9k2suRO1p-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GXs71FnVznY9k2suRO1p-39" target="GXs71FnVznY9k2suRO1p-41">
           <mxGeometry relative="1" as="geometry" />
@@ -135,6 +138,9 @@
         <mxCell id="dXS0JDTN5QcCgnI0oE-1-9" value="定外卖" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dXS0JDTN5QcCgnI0oE-1-11" target="dXS0JDTN5QcCgnI0oE-1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dXS0JDTN5QcCgnI0oE-1-11" value="剧情" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="640" width="120" height="40" as="geometry" />
         </mxCell>
@@ -148,6 +154,12 @@
               <mxPoint x="520" y="500" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-17" value="结局2" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dXS0JDTN5QcCgnI0oE-1-19" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;shadow=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="720" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
